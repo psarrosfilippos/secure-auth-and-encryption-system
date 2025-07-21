@@ -30,7 +30,6 @@ Ideal for learning cryptography basics and secure authentication mechanisms.
 
 Simply execute the Python script:
 
-    bash
     python filename.py
 
 **2. User Registration**
@@ -139,5 +138,4 @@ Filippos Psarros
 informatics and telecommunications Student
 
 GitHub: psarrosfilippos
-
-[README.md](https://github.com/user-attachments/files/21314067/README.md)
+[README.md](https://github.com/user-attachments/files/21339615/README.md)
